@@ -50,3 +50,7 @@
    python3 dnsRes.py alvo.com
    ```
 
+## Créditos
+
+- A wordlist de subdomínios utilizada foi extraída do repositório n0kovo/n0kovo_subdomains
+- Link do Repositório: https://github.com/n0kovo/n0kovo_subdomains
