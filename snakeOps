@@ -1,0 +1,14 @@
+#!/usr/bin/env python3
+"""
+snakeOps - CLI unificada sem dependências externas
+
+Uso rápido:
+  python3 snakeOps                # mostra ajuda geral
+  python3 snakeOps infoDns exemplo.com
+  python3 snakeOps infoDns --list
+  python3 snakeOps infoDns -l -f data/lists/domains.txt --json
+"""
+from snakeops.cli import main
+
+if __name__ == "__main__":
+    main()
